@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<group>
+    <name>VEHCILE</name>
+    <members>
+        <lastName>HONDA</lastName>
+        <firstName>HERO</firstName>
+        <buildDate>1988-01-04T00:00:00+05:30</buildDate>
+    </members>
+    <members>
+        <lastName>SUZUKI</lastName>
+        <firstName>MARUTI</firstName>
+        <buildDate>1988-05-04T00:00:00+05:30</buildDate>
+    </members>
+</group>
